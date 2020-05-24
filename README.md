@@ -1,2 +1,1 @@
-# django101
-Sample Django Blog Project
+trial branch read me
